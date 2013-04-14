@@ -32,7 +32,9 @@
  * @version     2.5.9
  */
 
-class Mobile_Detect {
+namespace MobileDetect;
+
+class Detect {
 
     protected $scriptVersion = '2.5.9';
 
